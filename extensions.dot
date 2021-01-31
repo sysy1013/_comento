@@ -1,6 +1,6 @@
 digraph model_graph {
   // Dotfile by Django-Extensions graph_models
-  // Created: 2021-01-31 11:54
+  // Created: 2021-01-31 14:40
   // Cli Options: -a
 
   fontname = "Roboto"
@@ -131,25 +131,25 @@ digraph model_graph {
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto">is_active</FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto">is_active</FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto">BooleanField</FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto">BooleanField</FONT>
     </TD></TR>
   
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto">is_staff</FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto">is_staff</FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto">BooleanField</FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto">BooleanField</FONT>
     </TD></TR>
   
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto"><I>is_superuser</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>is_superuser</I></FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto"><I>BooleanField</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>BooleanField</I></FONT>
     </TD></TR>
   
   
@@ -297,25 +297,25 @@ digraph model_graph {
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto"><I>is_active</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>is_active</I></FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto"><I>BooleanField</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>BooleanField</I></FONT>
     </TD></TR>
   
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto"><I>is_staff</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>is_staff</I></FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto"><I>BooleanField</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>BooleanField</I></FONT>
     </TD></TR>
   
   
   
     <TR><TD ALIGN="LEFT" BORDER="0">
-    <FONT FACE="Roboto"><I>is_superuser</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>is_superuser</I></FONT>
     </TD><TD ALIGN="LEFT">
-    <FONT FACE="Roboto"><I>BooleanField</I></FONT>
+    <FONT COLOR="#7B7B7B" FACE="Roboto"><I>BooleanField</I></FONT>
     </TD></TR>
   
   
